@@ -26,9 +26,8 @@ public class Lab1{
         {
             correctGuess = false;
         }
-        //JOptionPane.showMessageDialog(null, "Hello, " + result + "!");
         JOptionPane.showMessageDialog(null, correctGuess + ", The Answer was " + random);
-        //System.out.println("The Answer was " + random);
+        System.out.println("The Answer was " + random);
 
     }
 
